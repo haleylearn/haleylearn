@@ -1,7 +1,10 @@
-<img align="right" width="1000" height="500" alt="Data Analytics" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/data-analysis.gif" />
+<img align="right" width="1000" height="700" alt="Data Analytics" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/data-analysis.gif" />
 
 <h1 align="center">Hi 👋, I'm Haley</h1>
 <h3 align="center">A passionate Data Analytics and BigData from VietNam. If you have any issue or problem with your exercise or project related to SQL, PowerBI, ... I can help</h3>
+
+<p align="left">I am passionate about data, statistics, and charts. I am always learning and improving my knowledge in these areas. I believe that data analysis is a powerful tool that can be used to solve complex problems and make sound decisions. I aspire to become a data analyst in the future, and I believe that I can use my skills to make a positive impact on the world. I believe that when we work together, we can achieve extraordinary things.</p>
+<h3 align="center"><i>"Let's make big things happen, not make a big deal"</i></h3>
 
 <img align="right" width="400" alt="Data Analytics" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" />
 - 🔭 I’m currently working on **Based on myself like an excercise**
