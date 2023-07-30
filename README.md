@@ -1,8 +1,11 @@
+
+<img align="right" width="1000" alt="Data Analytics" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif" />
+
 <h1 align="center">Hi 👋, I'm Haley</h1>
 <h3 align="center">A passionate Data Analytics and BigData from VietNam. If you have any issue or problem with your exercise or project related to SQL, PowerBI, ... I can help</h3>
 
 <p align="left"> <a href="https://twitter.com/@haley2401nttd" target="blank"><img src="https://img.shields.io/twitter/follow/@haley2401nttd?logo=twitter&style=for-the-badge" alt="@haley2401nttd" /></a> </p>
-
+<img align="right" width="400" alt="Data Analytics" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" />
 - 🔭 I’m currently working on **Based on myself like an excercise**
 
 - 🌱 I’m currently learning **SQL, Power BI, Python, ...**
