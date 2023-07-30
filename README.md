@@ -1,5 +1,4 @@
-
-<img align="right" width="1000" alt="Data Analytics" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif" />
+<img align="right" width="1000" height="500" alt="Data Analytics" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif" />
 
 <h1 align="center">Hi 👋, I'm Haley</h1>
 <h3 align="center">A passionate Data Analytics and BigData from VietNam. If you have any issue or problem with your exercise or project related to SQL, PowerBI, ... I can help</h3>
