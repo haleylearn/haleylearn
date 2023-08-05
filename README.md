@@ -23,9 +23,8 @@
 <p align="left">
 <a href="https://twitter.com/@haley2401nttd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@haley2401nttd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nguyen-duyen-1062421ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nguyen-duyen-1062421ab/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@haleylearn2401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@haleylearn2401" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/haleylearn2401?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@haleylearn2401" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/@haleylearn2401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@haleylearn2401" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@haleylearn2401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@haleylearn2401" height="30" width="40" /></a>
 <a href="https://discord.gg/haley2401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="haley2401" height="30" width="40" /></a>
 </p>
 
